@@ -1,0 +1,389 @@
+---------------------------------------n_pred = 1-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5176502892329232  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[146.99 109.77]    │   nan │
+│                  │  [133.23 108.9 ]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.44791754327247046 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 2-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5226010157757246  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[164.5   99.02]    │   nan │
+│                  │  [143.58  98.81]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.44271470230759635 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 3-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5353077034031652  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[180.5   87.44]    │   nan │
+│                  │  [151.63  88.93]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.43642093880185945 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 4-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5331499236677516  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[191.99  78.44]    │   nan │
+│                  │  [159.99  79.63]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.43374183600667854 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 5-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5379457890447898  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[186.63  85.65]    │   nan │
+│                  │  [153.46  85.12]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.43250706422502283 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 6-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5389937277489586  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[197.72  77.35]    │   nan │
+│                  │  [159.89  76.37]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.42112976078110065 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 7-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5445731390604409  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[211.35  65.43]    │   nan │
+│                  │  [169.67  65.17]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.42392300337410993 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 8-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5462869454430341  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[218.79  59.39]    │   nan │
+│                  │  [173.68  59.89]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.41815153875412814 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 9-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤════════════════════╤═══════╕
+│ Eval Metrics     │ H0                 │   alt │
+╞══════════════════╪════════════════════╪═══════╡
+│ Accuracy         │ 0.5477376543512493 │   nan │
+├──────────────────┼────────────────────┼───────┤
+│ Confusion Matrix │ [[222.52  56.64]   │   nan │
+│                  │  [174.71  58.01]]  │       │
+├──────────────────┼────────────────────┼───────┤
+│ F1 Score         │ 0.4169657866121427 │   nan │
+╘══════════════════╧════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 10-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5530014847618335  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[223.44  56.4 ]    │   nan │
+│                  │  [174.64  57.51]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.42143066079974373 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 11-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5509117536933755  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[225.14  57.25]    │   nan │
+│                  │  [172.87  56.82]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.41810448704528097 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 12-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5557596447610553  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[228.29  54.78]    │   nan │
+│                  │  [174.62  54.05]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.41752212758989166 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 13-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.558116760823677   │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[230.53  53.5 ]    │   nan │
+│                  │  [173.24  54.32]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.42069517710691456 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+[0.5146625508629157, 0.520883161036548, 0.5269223205506391, 0.5302029212822272, 0.5329835962886112, 0.5379500518256312, 0.5409874516242523, 0.5435857352222765, 0.5453621942642808, 0.5465731752573293, 0.5514568036244337, 0.5531519912455544, 0.5551906800367481]
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+
+----------------------------------------n_pred = 14-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤════════════════════╤═══════╕
+│ Eval Metrics     │ H0                 │   alt │
+╞══════════════════╪════════════════════╪═══════╡
+│ Accuracy         │ 0.5602547189669415 │   nan │
+├──────────────────┼────────────────────┼───────┤
+│ Confusion Matrix │ [[229.13  55.75]   │   nan │
+│                  │  [170.93  55.59]]  │       │
+├──────────────────┼────────────────────┼───────┤
+│ F1 Score         │ 0.4229377445524207 │   nan │
+╘══════════════════╧════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 21-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤════════════════════╤═══════╕
+│ Eval Metrics     │ H0                 │   alt │
+╞══════════════════╪════════════════════╪═══════╡
+│ Accuracy         │ 0.5692507773780806 │   nan │
+├──────────────────┼────────────────────┼───────┤
+│ Confusion Matrix │ [[241.7   45.22]   │   nan │
+│                  │  [177.88  45.1 ]]  │       │
+├──────────────────┼────────────────────┼───────┤
+│ F1 Score         │ 0.415003369549326  │   nan │
+╘══════════════════╧════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 28-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.580903761003794   │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[246.4   44.65]    │   nan │
+│                  │  [171.81  44.94]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.41373132501397564 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 35-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5867237592687907  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[249.82  44.1 ]    │   nan │
+│                  │  [170.21  41.5 ]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.41252110804662806 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+----------------------------------------n_pred = 42-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═════════════════════╤═══════╕
+│ Eval Metrics     │ H0                  │   alt │
+╞══════════════════╪═════════════════════╪═══════╡
+│ Accuracy         │ 0.5881997882455873  │   nan │
+├──────────────────┼─────────────────────┼───────┤
+│ Confusion Matrix │ [[247.8   47.66]    │   nan │
+│                  │  [164.66  43.04]]   │       │
+├──────────────────┼─────────────────────┼───────┤
+│ F1 Score         │ 0.42156727640042424 │   nan │
+╘══════════════════╧═════════════════════╧═══════╛
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Data\acglp.us.txt can't be use for training for n_pred = 49 as its train class consists of only one class
+Erorr: The number of classes has to be greater than one; got 1 class
+----------------------------------------n_pred = 49-----------------------------------------
+nan
+╒═══════════════╤════════════════╤═══════════════════════╤════════════════════════╤═══════════════╤════════════════╕
+│ H0_Accuracy   │ alt_Accuracy   │ H0_Confusion Matrix   │ alt_Confusion Matrix   │ H0_F1 Score   │ alt_F1 Score   │
+╞═══════════════╪════════════════╪═══════════════════════╪════════════════════════╪═══════════════╪════════════════╡
+╘═══════════════╧════════════════╧═══════════════════════╧════════════════════════╧═══════════════╧════════════════╛
+╒══════════════════╤═══════════════════════════════╤═══════╕
+│ Eval Metrics     │ H0                            │   alt │
+╞══════════════════╪═══════════════════════════════╪═══════╡
+│ Accuracy         │ 0.5933299558210257            │   nan │
+├──────────────────┼───────────────────────────────┼───────┤
+│ Confusion Matrix │ [[251.80808081  47.93939394]  │   nan │
+│                  │  [160.63636364  44.98989899]] │       │
+├──────────────────┼───────────────────────────────┼───────┤
+│ F1 Score         │ 0.43229804337605304           │   nan │
+╘══════════════════╧═══════════════════════════════╧═══════╛
+[0.5570590535784122, 0.5626985683467346, 0.57315872390705, 0.581294622550086, 0.5872088401303761, 0.5931204029421171]
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\fromnumeric.py:3504: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+c:\Users\Lee023\anaconda3\envs\ts\Lib\site-packages\numpy\core\_methods.py:129: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+
+

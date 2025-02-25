@@ -1,0 +1,22 @@
+What can I do with stock market data:
+On a broad level perspective:
+1. Trained the model to differentiate ETFs from stocks (supervised learning)
+2. Train the model to cluster the stocks + ETFs using unsupervised learning 
+3. Train a machine learning model to decide on the list of stocks to choose from to attain a certain volatility 
+
+
+On a specific level in an individual market data:
+1. Forecasting future level (Supervised learning)
+2. Smoothen out and reduce the data to hasten the training process by doing moving averages across like for example one week to predict weekly return
+3. Using a subset of stocks that are in the same stock to predict future values, how's the prediction compared to using the sole stocks' historical data to make a prediction?
+4. Utilizing the ability of the ARIMA to provide a confidence interval for the stock market price forecasting, we are able to judge if we can invest in a stock by the lower bound of the stock prediction. E.g. if the lower bound is consistently higher than the previous price, then we are safe to go.
+5. Classifying if the stock is going up and down in a certain period. Make into a classification problem 
+
+
+
+Feature Engineering variables:
+1. Aroon Oscillator
+2. RSI (Relative Strength Index)
+3. Bollinger Bands
+4. PVT (Price Volume trend)
+5. Price Range (High - Low) for a day or across the whole period
